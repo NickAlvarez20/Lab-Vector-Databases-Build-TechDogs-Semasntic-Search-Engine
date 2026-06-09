@@ -1,4 +1,4 @@
-# Lab-Vector-Databases-Build-TechDogs-Semantic-Search-Engine
+# Lab-Vector-Databases-Build-TechCorps-Semantic-Search-Engine
 Master the technology behind modern AI search systems - from embeddings to production-ready semantic search! | A guided intro to learning Vector Databases & Semantic Search with LangChain on KodeKloud | Follow along with the tutorial by signing up for an account at https://kodekloud.com and following the 4th https://learn.kodekloud.com/user/courses/youtube-labs-ai-agent-fundamentals/ tutorial in the cloud coding environment. You can watch the tutorial on YouTube as well: https://youtu.be/ZaPbP9DwBOE?si=HGZuFIkjd003qOKo
 
 # 🔍 Vector Databases & Semantic Search Lab
@@ -7,7 +7,7 @@ Master the technology behind modern AI search systems - from embeddings to produ
 
 ## 📚 Lab Overview
 
-Welcome to the Vector Databases lab! You'll build a semantic search engine for TechDocs Inc., transforming their failing keyword search (60% failure rate) into an intelligent system that understands meaning (95% success rate).
+Welcome to the Vector Databases lab! You'll build a semantic search engine for TechCorp Inc., transforming their failing keyword search (60% failure rate) into an intelligent system that understands meaning (95% success rate).
 
 ## 🎯 Learning Objectives
 
